@@ -1,0 +1,23 @@
+(1) What is the Internet?
+
+The internet is a global network of interconnected computers and servers that communicate with each other using standardized protocols. It enables the exchange of information and the sharing of resources, such as documents, images, and videos. It also provides access to a wide range of services, including email, social media, online shopping, and banking. The internet is also known as the World Wide Web (WWW or simply the Web).
+
+
+(2) What is a Web Broswer?
+
+A web browser is a software application that allows users to access, view, and navigate the content on the internet. It interprets HTML and other web-based languages and displays them as web pages, which can include text, images, videos, and interactive elements. Some examples of popular web browsers include Google Chrome, Mozilla Firefox, Safari, and Microsoft Edge. A browser allow users to access the website and interact with the web pages.
+
+(3) What is a broswer engine?
+
+A browser engine is the component of a web browser that is responsible for interpreting and displaying web pages. It takes the code written in languages such as HTML, CSS, and JavaScript and renders it into the visual interface that you see on the screen. The browser engine also manages the browser's interactions with the internet, such as sending and receiving requests and handling cookies. Some examples of browser engines include Blink (used in Chrome and Edge), Gecko (used in Firefox), and Webkit (used in Safari).
+
+
+(4) What is a static site?
+
+A static site is a website that is built using only static files, such as HTML, CSS, and JavaScript. The content and layout of the site is determined at the time of creation and does not change in response to user input or other dynamic factors.
+Static site are fast,secure and easy to host and maintain, they are ideal for small to medium-sized sites that don't require a lot of dynamic functionality. They can be easily deployed and hosted on a content delivery network (CDN) or a simple web server. The main disadvantage of static site is that it does not support to dynamic functionality like user interactions, forms, and data management.
+
+(5) What is a dynamic site?
+
+A dynamic site is a website that generates and serves content on the fly in response to user input or other dynamic factors. The content and layout of the site can change based on user interactions, data from a database, or other sources.
+Dynamic sites are built using server-side scripting languages such as PHP, Ruby, Python, or .NET, and use a database to store and retrieve data. They are more complex to develop and maintain than static sites, but they offer greater flexibility and functionality. Examples of dynamic sites include e-commerce sites, social media platforms, and web applications. They can handle user interactions like forms, authentication, and data management. They also support a wide range of functionality like personalized content, real-time updates and data visualization.
